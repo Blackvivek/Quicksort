@@ -1,2 +1,2 @@
 # Quicksort
-Quicksort is widely used sorting techniq in Industry.
+Quicksort is widely used sorting technique in Industry.
